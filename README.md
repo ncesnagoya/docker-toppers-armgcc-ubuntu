@@ -20,7 +20,7 @@ docker run --rm -it toppers-armgcc-ubuntu:7-2018-q2
 
 ## How to Docker Build
 ```
-docker build -t toppers-armgcc-ubuntu:7-2018-q2 .
+docker build -t toppersjp/ttsp-armgcc-ubuntu:0.1 .
 ```
 ## Install Packages
 - bison bzip2 flex gcc git libglib2.0-dev libpixman-1-dev pkg-config python ruby subversion wget zlib1g-dev:amd64
